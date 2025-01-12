@@ -10,4 +10,5 @@ dependencies = [
     "matplotlib>=3.10.0",
     "numpy>=2.2.1",
     "opencv-python>=4.10.0.84",
+    "scikit-learn>=1.6.1",
 ]
