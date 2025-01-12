@@ -1,0 +1,13 @@
+[project]
+name = "cs413"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cv>=1.0.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.1",
+    "opencv-python>=4.10.0.84",
+]
